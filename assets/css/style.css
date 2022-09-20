@@ -1,0 +1,33 @@
+p {
+    height: 400px;
+    width: 400px;
+    color:rgb(213, 130, 213)
+
+}
+p {
+    border: 3px solid coral;
+}
+
+h1 {
+    color: rgb(165, 165, 24);
+    height: 40px;
+    width: auto
+}
+div {
+    color: rgb(213, 130, 213);
+    font-weight: 200;
+    box-sizing: border-box;
+      
+}
+
+ h2 {
+    color: lightpink;
+ }
+ul {
+    color: aquamarine;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif    
+}
+#banner {
+    height: 700px;
+}
